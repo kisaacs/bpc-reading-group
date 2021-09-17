@@ -12,7 +12,9 @@ possible readings through the [BPC Reading Group Material Suggestions Google For
 
 ### Reading Group Mechanics
 
-We will meet for one hour each week to discuss the week's reading. 
+We will meet for one hour each week to discuss the week's reading. If the
+group is sizable, we may split into breakout rooms for smaller discussions,
+then reconvene to discuss points raised during those discussions.
 
 - Meeting Time: Fridays 1 PM Tucson Time
 - Meeting Place: Zoom
