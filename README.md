@@ -21,6 +21,11 @@ To join the reading group announcement list `bpc-reading` through
 [https://list.arizona.edu/sympa/info/bpc-reading](https://list.arizona.edu/sympa/info/bpc-reading) to receive a weekly
 reminder with the reading announcement and Zoom coordinates.
 
+You may also subscribe by email by sending a message to
+`list@list.arizona.edu` with the subject line `subscribe bpc-reading
+[Firstname] [Lastname]` where `Firstname` and `Lastname` indicate your own
+first and last name. The message body should be left blank.
+
 
 ### Schedule
 
