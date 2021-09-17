@@ -18,8 +18,9 @@ We will meet for one hour each week to discuss the week's reading.
 - Meeting Place: Zoom
 
 To join the reading group announcement list `bpc-reading` through
-[https://list.arizona.edu/](https://list.arizona.edu/) to receive a weekly
+[https://list.arizona.edu/sympa/info/bpc-reading](https://list.arizona.edu/sympa/info/bpc-reading) to receive a weekly
 reminder with the reading announcement and Zoom coordinates.
+
 
 ### Schedule
 
