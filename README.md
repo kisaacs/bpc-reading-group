@@ -33,7 +33,7 @@ We will update this schedule based on group interest. Later weeks subject to
 change based on group interest.
 
 - **9/24**: ["Kicking Butt in Computer Science: Women in Computing at Carnegie
-  Mellon University"](http://www.cs.cmu.edu/~cfrieze/KickingButt.pdf), Chapters 1 - 4. (Rationale: suggested by the APR)
+  Mellon University"](http://www.cs.cmu.edu/~cfrieze/KickingButt.pdf), Chapters 1 - 4. (Rationale: suggested by the CS APR report)
 - **10/1**: "Kicking Butt in Computer Science: Women in Computing at Carnegie
   Mellon University", Chapters 5 & continue last week discussion
 - **10/8**: "Kicking Butt in Computer Science: Women in Computing at Carnegie
