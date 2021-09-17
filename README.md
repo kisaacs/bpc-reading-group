@@ -44,7 +44,7 @@ change based on group interest.
 - **10/29**: ["Best Practices for Expanding Pathways to Undergraduate CS
   Research"](https://cra.org/crae/wp-content/uploads/sites/3/2020/11/ScalingUndergradResearchReport-2.pdf) (Rationale: suggested by Michelle Strout)
 - **11/5**: "Diversifying Undergraduate Computer Science: the Role of Department Chairs in Promoting Gender and Racial Diversity", Sax, Zimmerman, Blaney,
-Toven-Lindsey, & Lehman, Journal of Women and Minorities in Science and Engineering (Rationale: we are doing a head search)
+Toven-Lindsey, & Lehman, Journal of Women and Minorities in Science and Engineering (Rationale: CS dept is doing a head search)
 - **11/12**: ["A Teaching Intervention that Increases Underserved College Students’ Success"](https://www.aacu.org/peerreview/2016/winter-spring/Winkelmes) (See also [TILT Higher Ed Examples And Resources](https://tilthighered.com/tiltexamplesandresources)) (Rationale: suggested by BPCnet website)
 - **11/19**: "The Intersection of Being Black and Being a Woman: Examining the Effect of Social Computing Relationships on Computer Science Career Choice", Ross, Hazari, Sonnert, and Sadler, ACM Transactions on Computing Education (Rationale: Kate wanted to read it)
 - **11/26**: No Meeting - Thanksgiving Holiday
