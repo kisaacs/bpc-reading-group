@@ -96,7 +96,7 @@ better understand their requirements.
 
 ### Organizers
 
-Organizer contact information is available through the [https://directory.arizona.edu/phonebook](UA Phonebook).
+Organizer contact information is available through the [UA Phonebook](https://directory.arizona.edu/phonebook).
 
 - Faculty Organizer: Kate Isaacs, Assistant Professor
 - Graduate Student Organizer: Connor Scully-Allison
