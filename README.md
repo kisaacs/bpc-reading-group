@@ -17,9 +17,9 @@ We will meet for one hour each week to discuss the week's reading.
 - Meeting Time: Fridays 1 PM Tucson Time
 - Meeting Place: Zoom
 
-**Coming Soon (Will update when list activates)**: To join the reading group announcement list `bpc-reading` through
-[https://list.arizona.edu/](https://list.arizona.edu/) to receive the Zoom
-coordinates and reading announcements.
+To join the reading group announcement list `bpc-reading` through
+[https://list.arizona.edu/](https://list.arizona.edu/) to receive a weekly
+reminder with the reading announcement and Zoom coordinates.
 
 ### Schedule
 
