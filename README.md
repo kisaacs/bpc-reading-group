@@ -2,7 +2,7 @@
 
 The purpose of this group is self-education on the topic of broadening
 participation in computing, with an assumed audience of post-secondary
-educators (faculty, teaching assistants, & future faculty). The meetings serve
+educators (e.g., faculty, administration, staff, teaching assistants, & future faculty). The meetings serve
 a dual purpose of accountability in reading (or watching) the materials and
 further engagement through discussion and possible application. 
 
