@@ -8,7 +8,10 @@ further engagement through discussion and possible application.
 
 Topics will include BPC-focused materials and more general readings on topics
 of diversity, equity, and inclusion. Participants are encouraged to suggest
-possible readings through the [BPC Reading Group Material Suggestions Google Form](https://forms.gle/wpvpW5gRVtDmMUnbA).
+possible readings through the [BPC Reading Group Material Suggestions Google
+Form](https://forms.gle/wpvpW5gRVtDmMUnbA). For example, some readings from
+the [Computing Alliance of Hispanic-Serving Institutions Resource
+Pages](https://cahsi.utep.edu/resources/), may be of interest. 
 
 ### Reading Group Mechanics
 
@@ -45,7 +48,7 @@ change based on group interest.
   Efforts](https://docs.google.com/presentation/d/1J3m20Z-xFRxEjALo6pobR-VKMEeLTx8EbQy9SvlxM30/edit?usp=sharing)
 - **10/29**: ["Best Practices for Expanding Pathways to Undergraduate CS
   Research"](https://cra.org/crae/wp-content/uploads/sites/3/2020/11/ScalingUndergradResearchReport-2.pdf) (Rationale: suggested by Michelle Strout)
-- **11/5**: "Diversifying Undergraduate Computer Science: the Role of Department Chairs in Promoting Gender and Racial Diversity", Sax, Zimmerman, Blaney,
+- **11/5**: ["Diversifying Undergraduate Computer Science: the Role of Department Chairs in Promoting Gender and Racial Diversity"](https://www.cs.jhu.edu/~misha/DIReadingSeminar/Papers/Sax17.pdf), Sax, Zimmerman, Blaney,
 Toven-Lindsey, & Lehman, Journal of Women and Minorities in Science and Engineering (Rationale: CS dept is doing a head search)
 - **11/12**: ["A Teaching Intervention that Increases Underserved College Students’ Success"](https://www.aacu.org/peerreview/2016/winter-spring/Winkelmes) (See also [TILT Higher Ed Examples And Resources](https://tilthighered.com/tiltexamplesandresources)) (Rationale: suggested by BPCnet website)
 - **11/19**: "The Intersection of Being Black and Being a Woman: Examining the Effect of Social Computing Relationships on Computer Science Career Choice", Ross, Hazari, Sonnert, and Sadler, ACM Transactions on Computing Education (Rationale: Kate wanted to read it)
