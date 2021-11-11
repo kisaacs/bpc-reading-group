@@ -13,14 +13,26 @@ Form](https://forms.gle/wpvpW5gRVtDmMUnbA). For example, some readings from
 the [Computing Alliance of Hispanic-Serving Institutions Resource
 Pages](https://cahsi.utep.edu/resources/), may be of interest. 
 
+The purpose of this group is to learn. We recognize no study or approach is
+perfect. However, we strive to seek waht we can learn from any reading despite
+its limitations.
+
 ### Reading Group Mechanics
 
 We will meet for one hour each week to discuss the week's reading. If the
 group is sizable, we may split into breakout rooms for smaller discussions,
 then reconvene to discuss points raised during those discussions.
 
+
 - Meeting Time: Fridays 1 PM Tucson Time
 - Meeting Place: Zoom
+ 
+Along with each discussion, we create a Jamboard for cataloguing ideas and
+discussion.  All people at the meeting are welcome ot post. Anonymous posting
+is permitted.
+
+
+### Reading Group Mailing List
 
 To join the reading group announcement list `bpc-reading` through
 [https://list.arizona.edu/sympa/info/bpc-reading](https://list.arizona.edu/sympa/info/bpc-reading) to receive a weekly
