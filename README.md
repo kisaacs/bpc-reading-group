@@ -14,7 +14,7 @@ the [Computing Alliance of Hispanic-Serving Institutions Resource
 Pages](https://cahsi.utep.edu/resources/), may be of interest. 
 
 The purpose of this group is to learn. We recognize no study or approach is
-perfect. However, we strive to seek waht we can learn from any reading despite
+perfect. However, we strive to seek what we can learn from any reading despite
 its limitations.
 
 ### Reading Group Mechanics
@@ -28,7 +28,7 @@ then reconvene to discuss points raised during those discussions.
 - Meeting Place: Zoom
  
 Along with each discussion, we create a Jamboard for cataloguing ideas and
-discussion.  All people at the meeting are welcome ot post. Anonymous posting
+discussion.  All people at the meeting are welcome to post. Anonymous posting
 is permitted.
 
 
@@ -45,6 +45,8 @@ first and last name. The message body should be left blank.
 
 
 ### Schedule
+
+** We will return Spring 2022! See our mailing for scheduling poll! ** 
 
 We will update this schedule based on group interest. Later weeks subject to
 change based on group interest.
