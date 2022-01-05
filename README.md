@@ -24,7 +24,7 @@ group is sizable, we may split into breakout rooms for smaller discussions,
 then reconvene to discuss points raised during those discussions.
 
 
-- Meeting Time: Fridays 1 PM Tucson Time
+- Meeting Time: TBD for Spring 20222
 - Meeting Place: Zoom
  
 Along with each discussion, we create a Jamboard for cataloguing ideas and
@@ -46,36 +46,41 @@ first and last name. The message body should be left blank.
 
 ### Schedule
 
-** We will return Spring 2022! See our mailing for scheduling poll! ** 
+This Spring 2022 schedule is temporary until the day of week and time is set.
+Right now, it lists week-of.
 
 We will update this schedule based on group interest. Later weeks subject to
 change based on group interest.
 
-- **9/24**: ["Kicking Butt in Computer Science: Women in Computing at Carnegie
-  Mellon University"](http://www.cs.cmu.edu/~cfrieze/KickingButt.pdf), Chapters 1 - 4. (Rationale: suggested by the CS APR report)
-- **10/1**: "Kicking Butt in Computer Science: Women in Computing at Carnegie
-  Mellon University", Chapters 5 & continue last week discussion
-- **10/8**: "Kicking Butt in Computer Science: Women in Computing at Carnegie
-  Mellon University", Chapters 6 - 7 & continue last week discussion
-- **10/15**: [NCWIT 101: Module 4: Including and Retaining Students](https://docs.google.com/presentation/d/149PY94uGMc-BEe2Hsod5Hf8wKESXlZNIaDrGwcrxUbA/edit?usp=sharing) (Rationale: compiled by NCWIT)
-- **10/22**: [NCWIT 101: Module 5: Evaluating your Diversity and Outreach
-  Efforts](https://docs.google.com/presentation/d/1J3m20Z-xFRxEjALo6pobR-VKMEeLTx8EbQy9SvlxM30/edit?usp=sharing)
-- **10/29**: ["Best Practices for Expanding Pathways to Undergraduate CS
-  Research"](https://cra.org/crae/wp-content/uploads/sites/3/2020/11/ScalingUndergradResearchReport-2.pdf) (Rationale: suggested by Michelle Strout)
-- **11/5**: ["Diversifying Undergraduate Computer Science: the Role of Department Chairs in Promoting Gender and Racial Diversity"](https://www.cs.jhu.edu/~misha/DIReadingSeminar/Papers/Sax17.pdf), Sax, Zimmerman, Blaney,
-Toven-Lindsey, & Lehman, Journal of Women and Minorities in Science and Engineering (Rationale: CS dept is doing a head search)
-  - See also the follow-up ["Building Momentum: How Department Chairs Lead Initiatives to Broaden Participation in Computer Science"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8985799), particularly the Results section starting on page 4.
-- **11/12**: ["A Teaching Intervention that Increases Underserved College Students’ Success"](https://www.aacu.org/peerreview/2016/winter-spring/Winkelmes) (Rationale: suggested by BPCnet website)
-  - (See also [TILT Higher Ed Examples And Resources](https://tilthighered.com/tiltexamplesandresources)) 
-- **11/19**: "The Intersection of Being Black and Being a Woman: Examining the Effect of Social Computing Relationships on Computer Science Career Choice", Ross, Hazari, Sonnert, and Sadler, ACM Transactions on Computing Education (Rationale: Kate wanted to read it)
-- **11/26**: No Meeting - Thanksgiving Holiday
-- **12/3**:"What am I supposed to look like?" STEM Identity Narratives of Women
+- **1/14**: No Meeting, First Week of Class
+- **1/21**: ["Undergraduate Latina/o Students: A Systematic Review of Research
+  Identifying Factors Contributing to Academic Success Outcomes"](https://d1wqtxts1xzle7.cloudfront.net/35793718/Crisp__Taggart___Nora_2014_-with-cover-page-v2.pdf?Expires=1641419387&Signature=SEyKNzLrLCkXIP4R1RMIFtFeXw61oxauA1Qoa26Txf4va9Ivy0N2AeIphUeXAFzW1Dny0L1O7uZkGARsrGXcEZ62ETqjaONPpl5NLvKiT-ZSs7IxdBvYUeuBYmqlTVudaOgVnfuaTCu1zFXKLWz1zcwA7lSaLWrTkDqUysE-YZ-joGaSJn-30tv6qy7SouMGQBqgw6dy2vgal4jdleoZ4XGiRUKE2W4vQEdlHa1jkItG4XpiSnsESMGTXjAXoFQ2o2vq-5MV5JoI5tLrhGwVtdKoEuEe6Gf8oh2gmhD2X-PKiHHdyxb9t0EBmvaCmQ-CDkk44-eDAVjiWe5ad14VNg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), Crisp, Taggart, & Nora (Rationale: Overview)
+- **1/28**: TBD
+- **2/4**: TBD
+- **2/11**: TBD
+- **2/18**: TBD
+- **2/25**: TBD
+- **3/4**: TBD
+- **3/11**: No Meeting, Spring Recesss
+- **3/18**: TBD
+- **3/25**: TBD
+- **4/1**: TBD
+- **4/8**: TBD
+- **4/15**: TBD
+- **4/22**: TBD
+- **4/29**: TBD
+
+<!-- "What am I supposed to look like?" STEM Identity Narratives of Women
   of Color Pursuing a Computing Degree Through Vertical Transfer, Mary Jessica
 Gallagher, Chapters 1 - 2. (Rationale: Kate wanted to read it, sets up next
-semester with lit review, continuation)
+semester with lit review, continuation) -->
 
 
 <!-- - 10/29: ["Diversifying Cornell CS Ph.D. Admissions"](http://www.cs.cornell.edu/~bindel/paper/diversity.pdf) (Rationale: Kate was curious) -->
+
+Please see [past-schedules.md](past-schedules.md) for previous semester
+schedules.
+
 
 ### Code of Conduct
 
