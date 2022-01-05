@@ -55,7 +55,9 @@ change based on group interest.
 - **1/14**: No Meeting, First Week of Class
 - **1/21**: ["Undergraduate Latina/o Students: A Systematic Review of Research
   Identifying Factors Contributing to Academic Success Outcomes"](https://d1wqtxts1xzle7.cloudfront.net/35793718/Crisp__Taggart___Nora_2014_-with-cover-page-v2.pdf?Expires=1641419387&Signature=SEyKNzLrLCkXIP4R1RMIFtFeXw61oxauA1Qoa26Txf4va9Ivy0N2AeIphUeXAFzW1Dny0L1O7uZkGARsrGXcEZ62ETqjaONPpl5NLvKiT-ZSs7IxdBvYUeuBYmqlTVudaOgVnfuaTCu1zFXKLWz1zcwA7lSaLWrTkDqUysE-YZ-joGaSJn-30tv6qy7SouMGQBqgw6dy2vgal4jdleoZ4XGiRUKE2W4vQEdlHa1jkItG4XpiSnsESMGTXjAXoFQ2o2vq-5MV5JoI5tLrhGwVtdKoEuEe6Gf8oh2gmhD2X-PKiHHdyxb9t0EBmvaCmQ-CDkk44-eDAVjiWe5ad14VNg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), Crisp, Taggart, & Nora (Rationale: Overview)
-- **1/28**: TBD
+- **1/28**: ["Reflections: The Computing Alliance of Hispanic-Serving
+  Institutions"](https://dl.acm.org/doi/pdf/10.1145/3010823), Gates, Thiry, & Hug (Rationale: CAHSI Overview). Note:
+Special ACM InRoads issue on BPC may have other articles of interest.
 - **2/4**: TBD
 - **2/11**: TBD
 - **2/18**: TBD
@@ -64,7 +66,7 @@ change based on group interest.
 - **3/11**: No Meeting, Spring Recesss
 - **3/18**: TBD
 - **3/25**: TBD
-- **4/1**: TBD
+- **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it last semester)
 - **4/8**: TBD
 - **4/15**: TBD
 - **4/22**: TBD
