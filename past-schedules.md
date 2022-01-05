@@ -1,4 +1,4 @@
-# Broadening Participation in Computing Reading Group - Past Reading Schedules
+## BPC Reading Group - Past Reading Schedules
 
 ### Fall 2021
 
