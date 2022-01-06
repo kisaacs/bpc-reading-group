@@ -62,12 +62,14 @@ Special ACM InRoads issue on BPC may have other articles of interest.
 - **2/11**: TBD
 - **2/18**: TBD
 - **2/25**: TBD
-- **3/4**: TBD
+- **3/4**: "Affinity Research Groups in Practice: Apprenticing Students in
+  Research", Villa, Kephart, Gates, Thiry, & Hug
 - **3/11**: No Meeting, Spring Recesss
 - **3/18**: TBD
 - **3/25**: TBD
 - **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it based on citations in works from last semester)
-- **4/8**: TBD
+- **4/8**: "Design Principles for Equity and Excellence at Hispanic-Serving
+  Institutions", Malcolm-Piqueux & Bensimon
 - **4/15**: TBD
 - **4/22**: TBD
 - **4/29**: TBD
