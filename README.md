@@ -54,22 +54,27 @@ change based on group interest.
 
 - **1/14**: No Meeting, First Week of Class
 - **1/21**: ["Undergraduate Latina/o Students: A Systematic Review of Research
-  Identifying Factors Contributing to Academic Success Outcomes"](https://d1wqtxts1xzle7.cloudfront.net/35793718/Crisp__Taggart___Nora_2014_-with-cover-page-v2.pdf?Expires=1641419387&Signature=SEyKNzLrLCkXIP4R1RMIFtFeXw61oxauA1Qoa26Txf4va9Ivy0N2AeIphUeXAFzW1Dny0L1O7uZkGARsrGXcEZ62ETqjaONPpl5NLvKiT-ZSs7IxdBvYUeuBYmqlTVudaOgVnfuaTCu1zFXKLWz1zcwA7lSaLWrTkDqUysE-YZ-joGaSJn-30tv6qy7SouMGQBqgw6dy2vgal4jdleoZ4XGiRUKE2W4vQEdlHa1jkItG4XpiSnsESMGTXjAXoFQ2o2vq-5MV5JoI5tLrhGwVtdKoEuEe6Gf8oh2gmhD2X-PKiHHdyxb9t0EBmvaCmQ-CDkk44-eDAVjiWe5ad14VNg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), Crisp, Taggart, & Nora (Rationale: Overview)
+  Identifying Factors Contributing to Academic Success
+Outcomes"](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3418&context=teal_facpub), Crisp, Taggart, & Nora (Rationale: Overview)
 - **1/28**: ["Reflections: The Computing Alliance of Hispanic-Serving
   Institutions"](https://dl.acm.org/doi/pdf/10.1145/3010823), Gates, Thiry, & Hug (Rationale: CAHSI Overview). Note:
 Special ACM InRoads issue on BPC may have other articles of interest.
 - **2/4**: ["The Troubled Success of Black Women in Stem](https://www.researchgate.net/profile/Ebony-Mcgee-2/publication/318919524_The_Troubled_Success_of_Black_Women_in_STEM/links/59d6843ba6fdcc52aca7cdd4/The-Troubled-Success-of-Black-Women-in-STEM.pdf), McGee & Bentley (Rationale: Several wanted to read it based on citations in works from last semester)
 - **2/11**: TBD
-- **2/18**: TBD
+- **2/18**: ["The Role of Institutional Agents in Providing Institutional
+  Support to Latinx Students in STEM"](https://muse.jhu.edu/article/729358/pdf), Bensimon & Stanton-Salazar (Rationale:
+actions faculty can take, incl. grad recruiting)
 - **2/25**: TBD
-- **3/4**: "Affinity Research Groups in Practice: Apprenticing Students in
-  Research", Villa, Kephart, Gates, Thiry, & Hug
+- **3/4**: ["Affinity Research Groups in Practice: Apprenticing Students in
+  Research"](https://www.researchgate.net/profile/Elsa-Villa/publication/220040804_The_Affinity_Research_Group_Model_Creating_and_Maintaining_Effective_Research_Teams/links/5a030366aca2720c326590d7/The-Affinity-Research-Group-Model-Creating-and-Maintaining-Effective-Research-Teams.pdf), Villa, Kephart, Gates, Thiry, & Hug (Rationale: possible approach
+to implement)
 - **3/11**: No Meeting, Spring Recesss
 - **3/18**: TBD
 - **3/25**: TBD
 - **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it based on citations in works from last semester)
-- **4/8**: "Design Principles for Equity and Excellence at Hispanic-Serving
-  Institutions", Malcolm-Piqueux & Bensimon
+- **4/8**: ["Design Principles for Equity and Excellence at Hispanic-Serving
+  Institutions"](https://vtechworks.lib.vt.edu/bitstream/handle/10919/83015/DesignPrinciplesforEquityandExcellence.pdf?sequence=1), Malcolm-Piqueux & Bensimon (Rationale: implementing and
+measuring HSI outcomes)
 - **4/15**: TBD
 - **4/22**: TBD
 - **4/29**: TBD
@@ -80,7 +85,8 @@ Gallagher, Chapters 1 - 2. (Rationale: Kate wanted to read it, sets up next
 semester with lit review, continuation) -->
 
 
-<!-- - 10/29: ["Diversifying Cornell CS Ph.D. Admissions"](http://www.cs.cornell.edu/~bindel/paper/diversity.pdf) (Rationale: Kate was curious) -->
+<!-- - 10/29: ["Diversifying Cornell CS Ph.D. Admissions"](/Expire
+http://www.cs.cornell.edu/~bindel/paper/diversity.pdf) (Rationale: Kate was curious) -->
 
 Please see [past-schedules.md](past-schedules.md) for previous semester
 schedules.
