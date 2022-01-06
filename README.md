@@ -58,7 +58,7 @@ change based on group interest.
 - **1/28**: ["Reflections: The Computing Alliance of Hispanic-Serving
   Institutions"](https://dl.acm.org/doi/pdf/10.1145/3010823), Gates, Thiry, & Hug (Rationale: CAHSI Overview). Note:
 Special ACM InRoads issue on BPC may have other articles of interest.
-- **2/4**: TBD
+- **2/4**: ["The Troubled Success of Black Women in Stem](https://www.researchgate.net/profile/Ebony-Mcgee-2/publication/318919524_The_Troubled_Success_of_Black_Women_in_STEM/links/59d6843ba6fdcc52aca7cdd4/The-Troubled-Success-of-Black-Women-in-STEM.pdf), McGee & Bentley (Rationale: Several wanted to read it based on citations in works from last semester)
 - **2/11**: TBD
 - **2/18**: TBD
 - **2/25**: TBD
@@ -66,7 +66,7 @@ Special ACM InRoads issue on BPC may have other articles of interest.
 - **3/11**: No Meeting, Spring Recesss
 - **3/18**: TBD
 - **3/25**: TBD
-- **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it last semester)
+- **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it based on citations in works from last semester)
 - **4/8**: TBD
 - **4/15**: TBD
 - **4/22**: TBD
