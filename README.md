@@ -59,8 +59,12 @@ Outcomes"](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3418&conte
 - **1/28**: ["Reflections: The Computing Alliance of Hispanic-Serving
   Institutions"](https://dl.acm.org/doi/pdf/10.1145/3010823), Gates, Thiry, & Hug (Rationale: CAHSI Overview). Note:
 Special ACM InRoads issue on BPC may have other articles of interest.
-- **2/4**: ["The Troubled Success of Black Women in Stem](https://www.researchgate.net/profile/Ebony-Mcgee-2/publication/318919524_The_Troubled_Success_of_Black_Women_in_STEM/links/59d6843ba6fdcc52aca7cdd4/The-Troubled-Success-of-Black-Women-in-STEM.pdf), McGee & Bentley (Rationale: Several wanted to read it based on citations in works from last semester)
-- **2/11**: TBD
+- **2/4**: ["The Troubled Success of Black Women in STEM](https://www.researchgate.net/profile/Ebony-Mcgee-2/publication/318919524_The_Troubled_Success_of_Black_Women_in_STEM/links/59d6843ba6fdcc52aca7cdd4/The-Troubled-Success-of-Black-Women-in-STEM.pdf), McGee & Bentley (Rationale: Several wanted to read it based on citations in works from last semester)
+- **2/11**: ["B(r)anding  Blackness: Biometric Technology and the Surveillance
+  of Blackness"](https://new.library.arizona.edu/), Chapter 3 of "Dark
+Matters: On the Surveillance of Blackness" by Simone Browne, available as
+eBook through UA Library (Rationale: Context when teaching computing, Brandon
+recommend it)
 - **2/18**: ["The Role of Institutional Agents in Providing Institutional
   Support to Latinx Students in STEM"](https://muse.jhu.edu/article/729358/pdf), Bensimon & Stanton-Salazar (Rationale:
 actions faculty can take, incl. grad recruiting)
@@ -75,7 +79,7 @@ to implement)
 - **4/8**: ["Design Principles for Equity and Excellence at Hispanic-Serving
   Institutions"](https://vtechworks.lib.vt.edu/bitstream/handle/10919/83015/DesignPrinciplesforEquityandExcellence.pdf?sequence=1), Malcolm-Piqueux & Bensimon (Rationale: implementing and
 measuring HSI outcomes)
-- **4/15**: TBD
+- **4/15**: ["Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science"](Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science), Narayanan, Cunningham, Arteaga, Welch, Maxwell, & Zechariaha Chawinga (Rationale: deeper dive into CSin3 program from Katie Cunningham's colloquium, recommended by Connor)
 - **4/22**: TBD
 - **4/29**: TBD
 
