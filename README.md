@@ -68,18 +68,18 @@ recommend it)
 - **2/18**: ["The Role of Institutional Agents in Providing Institutional
   Support to Latinx Students in STEM"](https://muse.jhu.edu/article/729358/pdf), Bensimon & Stanton-Salazar (Rationale:
 actions faculty can take, incl. grad recruiting)
-- **2/25**: TBD
-- **3/4**: ["Affinity Research Groups in Practice: Apprenticing Students in
-  Research"](https://www.researchgate.net/profile/Elsa-Villa/publication/220040804_The_Affinity_Research_Group_Model_Creating_and_Maintaining_Effective_Research_Teams/links/5a030366aca2720c326590d7/The-Affinity-Research-Group-Model-Creating-and-Maintaining-Effective-Research-Teams.pdf), Villa, Kephart, Gates, Thiry, & Hug (Rationale: possible approach
-to implement)
+- **2/25**: ["Affinity Research Groups in Practice: Apprenticing Students in
+  Research"](https://www.researchgate.net/profile/Elsa-Villa/publication/220040804_The_Affinity_Research_Group_Model_Creating_and_Maintaining_Effective_Research_Teams/links/5a030366aca2720c326590d7/The-Affinity-Research-Group-Model-Creating-and-Maintaining-Effective-Research-Teams.pdf), Villa, Kephart, Gates, Thiry, & Hug (Rationale: possible approach to implement)
+
+- **3/4**: ["Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159551), Narayanan, Cunningham, Arteaga, Welch, Maxwell, & Zechariaha Chawinga (Rationale: deeper dive into CSin3 program from Katie Cunningham's colloquium, recommended by Connor)
 - **3/11**: No Meeting, Spring Recesss
-- **3/18**: TBD
-- **3/25**: TBD
-- **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it based on citations in works from last semester)
-- **4/8**: ["Design Principles for Equity and Excellence at Hispanic-Serving
+- **3/18**: ["Design Principles for Equity and Excellence at Hispanic-Serving
   Institutions"](https://vtechworks.lib.vt.edu/bitstream/handle/10919/83015/DesignPrinciplesforEquityandExcellence.pdf?sequence=1), Malcolm-Piqueux & Bensimon (Rationale: implementing and
 measuring HSI outcomes)
-- **4/15**: ["Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science"](Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science), Narayanan, Cunningham, Arteaga, Welch, Maxwell, & Zechariaha Chawinga (Rationale: deeper dive into CSin3 program from Katie Cunningham's colloquium, recommended by Connor)
+- **3/25**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it based on citations in works from last semester)
+- **4/1**: TBD
+- **4/8**: TBD 
+- **4/15**: TBD
 - **4/22**: TBD
 - **4/29**: TBD
 
