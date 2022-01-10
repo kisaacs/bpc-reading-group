@@ -61,7 +61,7 @@ Outcomes"](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3418&conte
 Special ACM InRoads issue on BPC may have other articles of interest.
 - **2/4**: ["The Troubled Success of Black Women in STEM](https://www.researchgate.net/profile/Ebony-Mcgee-2/publication/318919524_The_Troubled_Success_of_Black_Women_in_STEM/links/59d6843ba6fdcc52aca7cdd4/The-Troubled-Success-of-Black-Women-in-STEM.pdf), McGee & Bentley (Rationale: Several wanted to read it based on citations in works from last semester)
 - **2/11**: ["The Role of Institutional Agents in Providing Institutional
-  Support to Latinx Students in STEM"](https://muse.jhu.edu/article/729358/pdf), Bensimon & Stanton-Salazar (Rationale: actions faculty can take, incl. grad recruiting)
+  Support to Latinx Students in STEM"](https://muse.jhu.edu/article/729358/pdf), Bensimon & Stanton-Salazar (Rationale: actions faculty can take, including grad recruiting which is timely)
 - **2/18**: ["B(r)anding  Blackness: Biometric Technology and the Surveillance
   of Blackness"](https://new.library.arizona.edu/), Chapter 3 of "Dark
 Matters: On the Surveillance of Blackness" by Simone Browne, available as
@@ -76,8 +76,7 @@ recommend it)
 measuring HSI outcomes)
 - **3/25**: ["Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159551), Narayanan, Cunningham, Arteaga, Welch, Maxwell, & Zechariaha Chawinga (Rationale: deeper dive into CSin3 program from Katie Cunningham's colloquium, recommended by Connor)
 - **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it based on citations in works from last semester)
-- **4/8**: ["Ancetral Knowledge Meets Computer Science Education"]()
-  Cueponcaxochitl. (Rationale: )
+- **4/8**: ["Pedagogy of the Oppresed, Chapter 2"](https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf), Freire. (Rationale: Brandon wanted to read it, foundational teaching philosophy) 
 - **4/15**: TBD
 - **4/22**: TBD
 - **4/29**: TBD
@@ -90,6 +89,9 @@ semester with lit review, continuation) -->
 
 <!-- - 10/29: ["Diversifying Cornell CS Ph.D. Admissions"](/Expire
 http://www.cs.cornell.edu/~bindel/paper/diversity.pdf) (Rationale: Kate was curious) -->
+
+<!-- ["Ancetral Knowledge Meets Computer Science Education"]()
+  Cueponcaxochitl. (Rationale: ) -->
 
 Please see [past-schedules.md](past-schedules.md) for previous semester
 schedules.
