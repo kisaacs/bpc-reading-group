@@ -24,7 +24,7 @@ group is sizable, we may split into breakout rooms for smaller discussions,
 then reconvene to discuss points raised during those discussions.
 
 
-- Meeting Time: TBD for Spring 20222
+- Meeting Time: Fridays at 11AM
 - Meeting Place: Zoom
  
 Along with each discussion, we create a Jamboard for cataloguing ideas and
