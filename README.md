@@ -53,12 +53,11 @@ We will update this schedule based on group interest. Later weeks subject to
 change based on group interest.
 
 - **1/14**: No Meeting, First Week of Class
-- **1/21**: ["Undergraduate Latina/o Students: A Systematic Review of Research
+- **1/21**: No Meeting, ["University of Arizona Diversity & Inclusion
+  Symposium"](https://diversity.arizona.edu/symposium)
+- **1/28**: ["Undergraduate Latina/o Students: A Systematic Review of Research
   Identifying Factors Contributing to Academic Success
 Outcomes"](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3418&context=teal_facpub), Crisp, Taggart, & Nora (Rationale: Overview)
-- **1/28**: ["Reflections: The Computing Alliance of Hispanic-Serving
-  Institutions"](https://dl.acm.org/doi/pdf/10.1145/3010823), Gates, Thiry, & Hug (Rationale: CAHSI Overview). Note:
-Special ACM InRoads issue on BPC may have other articles of interest.
 - **2/4**: ["The Troubled Success of Black Women in STEM](https://www.researchgate.net/profile/Ebony-Mcgee-2/publication/318919524_The_Troubled_Success_of_Black_Women_in_STEM/links/59d6843ba6fdcc52aca7cdd4/The-Troubled-Success-of-Black-Women-in-STEM.pdf), McGee & Bentley (Rationale: Several wanted to read it based on citations in works from last semester)
 - **2/11**: ["The Role of Institutional Agents in Providing Institutional
   Support to Latinx Students in STEM"](https://muse.jhu.edu/article/729358/pdf), Bensimon & Stanton-Salazar (Rationale: actions faculty can take, including grad recruiting which is timely)
@@ -69,15 +68,17 @@ eBook through UA Library (Rationale: Context when teaching computing, Brandon
 recommend it)
 - **2/25**: ["Affinity Research Groups in Practice: Apprenticing Students in
   Research"](https://www.researchgate.net/profile/Elsa-Villa/publication/220040804_The_Affinity_Research_Group_Model_Creating_and_Maintaining_Effective_Research_Teams/links/5a030366aca2720c326590d7/The-Affinity-Research-Group-Model-Creating-and-Maintaining-Effective-Research-Teams.pdf), Villa, Kephart, Gates, Thiry, & Hug (Rationale: possible approach to implement)
-- **3/4**: ["The Race for Cyberspace: Information Technology in the Black Diaspora"](https://www.researchgate.net/profile/Ron-Eglash/publication/233002262_The_Race_For_Cyberspace_Information_Technology_in_the_Black_Diaspora/links/546a4abf0cf2397f7830162e/The-Race-For-Cyberspace-Information-Technology-in-the-Black-Diaspora.pdf), Eglash & Bleecker. (Rationale: Kate wants to read it)
+- **3/4**: ["Reflections: The Computing Alliance of Hispanic-Serving
+  Institutions"](https://dl.acm.org/doi/pdf/10.1145/3010823), Gates, Thiry, & Hug (Rationale: CAHSI Overview). Note:
+Special ACM InRoads issue on BPC may have other articles of interest.
 - **3/11**: No Meeting, Spring Recesss
-- **3/18**: ["Design Principles for Equity and Excellence at Hispanic-Serving
+- **3/18**: ["The Race for Cyberspace: Information Technology in the Black Diaspora"](https://www.researchgate.net/profile/Ron-Eglash/publication/233002262_The_Race_For_Cyberspace_Information_Technology_in_the_Black_Diaspora/links/546a4abf0cf2397f7830162e/The-Race-For-Cyberspace-Information-Technology-in-the-Black-Diaspora.pdf), Eglash & Bleecker. (Rationale: Kate wants to read it)
+- **3/25**: ["Design Principles for Equity and Excellence at Hispanic-Serving
   Institutions"](https://vtechworks.lib.vt.edu/bitstream/handle/10919/83015/DesignPrinciplesforEquityandExcellence.pdf?sequence=1), Malcolm-Piqueux & Bensimon (Rationale: implementing and
 measuring HSI outcomes)
-- **3/25**: ["Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159551), Narayanan, Cunningham, Arteaga, Welch, Maxwell, & Zechariaha Chawinga (Rationale: deeper dive into CSin3 program from Katie Cunningham's colloquium, recommended by Connor)
 - **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it based on citations in works from last semester)
-- **4/8**: ["Pedagogy of the Oppresed, Chapter 2"](https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf), Freire. (Rationale: Brandon wanted to read it, foundational teaching philosophy) 
-- **4/15**: TBD
+- **4/8**: ["Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159551), Narayanan, Cunningham, Arteaga, Welch, Maxwell, & Zechariaha Chawinga (Rationale: deeper dive into CSin3 program from Katie Cunningham's colloquium, recommended by Connor)
+- **4/15**: ["Pedagogy of the Oppresed, Chapter 2"](https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf), Freire. (Rationale: Brandon wanted to read it, foundational teaching philosophy) 
 - **4/22**: TBD
 - **4/29**: TBD
 
