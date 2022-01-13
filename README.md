@@ -53,8 +53,8 @@ We will update this schedule based on group interest. Later weeks subject to
 change based on group interest.
 
 - **1/14**: No Meeting, First Week of Class
-- **1/21**: No Meeting, ["University of Arizona Diversity & Inclusion
-  Symposium"](https://diversity.arizona.edu/symposium)
+- **1/21**: No Meeting so all can attend [University of Arizona Diversity & Inclusion
+  Symposium](https://diversity.arizona.edu/symposium)
 - **1/28**: ["Undergraduate Latina/o Students: A Systematic Review of Research
   Identifying Factors Contributing to Academic Success
 Outcomes"](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3418&context=teal_facpub), Crisp, Taggart, & Nora (Rationale: Overview)
