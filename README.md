@@ -67,7 +67,7 @@ Matters: On the Surveillance of Blackness" by Simone Browne, available as
 eBook through UA Library (Rationale: Context when teaching computing, Brandon
 recommend it)
 - **2/25**: ["Affinity Research Groups in Practice: Apprenticing Students in
-  Research"](https://www.researchgate.net/profile/Elsa-Villa/publication/220040804_The_Affinity_Research_Group_Model_Creating_and_Maintaining_Effective_Research_Teams/links/5a030366aca2720c326590d7/The-Affinity-Research-Group-Model-Creating-and-Maintaining-Effective-Research-Teams.pdf), Villa, Kephart, Gates, Thiry, & Hug (Rationale: possible approach to implement)
+  Research"](https://www.proquest.com/docview/1638871933), Villa, Kephart, Gates, Thiry, & Hug (Rationale: possible approach to implement)
 - **3/4**: ["Reflections: The Computing Alliance of Hispanic-Serving
   Institutions"](https://dl.acm.org/doi/pdf/10.1145/3010823), Gates, Thiry, & Hug (Rationale: CAHSI Overview). Note:
 Special ACM InRoads issue on BPC may have other articles of interest.
