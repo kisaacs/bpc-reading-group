@@ -79,7 +79,7 @@ measuring HSI outcomes)
 - **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it based on citations in works from last semester)
 - **4/8**: ["Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159551), Narayanan, Cunningham, Arteaga, Welch, Maxwell, & Zechariaha Chawinga (Rationale: deeper dive into CSin3 program from Katie Cunningham's colloquium, recommended by Connor)
 - **4/15**: ["Pedagogy of the Oppressed, Chapter 2"](https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf), Freire. (Rationale: Brandon wanted to read it, foundational teaching philosophy) 
-- **4/22**: TBD
+- **4/22**: ["Why Are All the Black Kids Sitting Together in the Cafeteria? : Revised Edition, Part IV, Chapter 8"](https://ebookcentral.proquest.com/lib/uaz/detail.action?docID=903483), Tatum. (Rationale: Suggested on Jamboard)
 - **4/29**: TBD
 
 <!-- "What am I supposed to look like?" STEM Identity Narratives of Women
