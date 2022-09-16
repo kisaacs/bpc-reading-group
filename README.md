@@ -24,10 +24,10 @@ group is sizable, we may split into breakout rooms for smaller discussions,
 then reconvene to discuss points raised during those discussions.
 
 
-- Meeting Time: Fridays at 11AM
+- Meeting Time: TBD
 - Meeting Place: Zoom
  
-Along with each discussion, we create a Jamboard for cataloguing ideas and
+Along with each discussion, we create a Perusall for cataloguing ideas and
 discussion.  All people at the meeting are welcome to post. Anonymous posting
 is permitted.
 
@@ -46,42 +46,37 @@ first and last name. The message body should be left blank.
 
 ### Schedule
 
-This Spring 2022 schedule is temporary until the day of week and time is set.
+This Fall 2022 schedule is temporary until the day of week and time is set.
 Right now, it lists week-of.
 
 We will update this schedule based on group interest. Later weeks subject to
 change based on group interest.
 
-- **1/14**: No Meeting, First Week of Class
-- **1/21**: No Meeting so all can attend [University of Arizona Diversity & Inclusion
-  Symposium](https://diversity.arizona.edu/symposium)
-- **1/28**: ["Undergraduate Latina/o Students: A Systematic Review of Research
+- **9/23**:
+- **9/30**: 
+<!-- No Meeting so all can attend [University of Arizona Diversity & Inclusion
+  Symposium](https://diversity.arizona.edu/symposium) -->
+- **10/07**: 
+<!-- ["Undergraduate Latina/o Students: A Systematic Review of Research
   Identifying Factors Contributing to Academic Success
-Outcomes"](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3418&context=teal_facpub), Crisp, Taggart, & Nora (Rationale: Overview)
-- **2/4**: ["The Troubled Success of Black Women in STEM](https://www.researchgate.net/profile/Ebony-Mcgee-2/publication/318919524_The_Troubled_Success_of_Black_Women_in_STEM/links/59d6843ba6fdcc52aca7cdd4/The-Troubled-Success-of-Black-Women-in-STEM.pdf), McGee & Bentley (Rationale: Several wanted to read it based on citations in works from last semester)
-- **2/11**: ["The Role of Institutional Agents in Providing Institutional
-  Support to Latinx Students in STEM"](https://muse.jhu.edu/article/729358/pdf), Bensimon & Stanton-Salazar (Rationale: actions faculty can take, including grad recruiting which is timely)
-- **2/18**: ["B(r)anding  Blackness: Biometric Technology and the Surveillance
+Outcomes"](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3418&context=teal_facpub), Crisp, Taggart, & Nora (Rationale: Overview) -->
+- **10/14**: 
+<!-- ["The Troubled Success of Black Women in STEM](https://www.researchgate.net/profile/Ebony-Mcgee-2/publication/318919524_The_Troubled_Success_of_Black_Women_in_STEM/links/59d6843ba6fdcc52aca7cdd4/The-Troubled-Success-of-Black-Women-in-STEM.pdf), McGee & Bentley (Rationale: Several wanted to read it based on citations in works from last semester)
+-->
+- **10/21**: ***No Meeting -- IEEE VIS***
+- **10/28**: <!-- ["B(r)anding  Blackness: Biometric Technology and the Surveillance
   of Blackness"](https://new.library.arizona.edu/), Chapter 3 of "Dark
 Matters: On the Surveillance of Blackness" by Simone Browne, available as
 eBook through UA Library (Rationale: Context when teaching computing, Brandon
-recommend it)
-- **2/25**: ["Affinity Research Groups in Practice: Apprenticing Students in
-  Research"](https://www.proquest.com/docview/1638871933), Villa, Kephart, Gates, Thiry, & Hug (Rationale: possible approach to implement)
-- **3/4**: ["Reflections: The Computing Alliance of Hispanic-Serving
+recommend it) -->
+- **11/04**: <!-- ["Affinity Research Groups in Practice: Apprenticing Students in
+  Research"](https://www.proquest.com/docview/1638871933), Villa, Kephart, Gates, Thiry, & Hug (Rationale: possible approach to implement) -->
+- **11/11**: No Meeting, Veteran's Day
+- **11/18**: <!-- ["Reflections: The Computing Alliance of Hispanic-Serving
   Institutions"](https://dl.acm.org/doi/pdf/10.1145/3010823), Gates, Thiry, & Hug (Rationale: CAHSI Overview). Note:
-Special ACM InRoads issue on BPC may have other articles of interest.
-- **3/11**: No Meeting, Spring Recesss
-- **3/18**: ["The Race for Cyberspace: Information Technology in the Black Diaspora"](https://www.researchgate.net/profile/Ron-Eglash/publication/233002262_The_Race_For_Cyberspace_Information_Technology_in_the_Black_Diaspora/links/546a4abf0cf2397f7830162e/The-Race-For-Cyberspace-Information-Technology-in-the-Black-Diaspora.pdf), Eglash & Bleecker. (Rationale: Kate wants to read it)
-- **3/25**: ["Design Principles for Equity and Excellence at Hispanic-Serving
-  Institutions"](https://vtechworks.lib.vt.edu/bitstream/handle/10919/83015/DesignPrinciplesforEquityandExcellence.pdf?sequence=1), Malcolm-Piqueux & Bensimon (Rationale: implementing and
-measuring HSI outcomes)
-- **4/1**: ["A Model for Increasing Gender Diversity in Technology"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159533), Rheingans, D'Eramo, Diaz-Espinoza, & Ireland. (Rationale: Several wanted to read it based on citations in works from last semester)
-- **4/8**: ["Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science"](https://dl.acm.org/doi/pdf/10.1145/3159450.3159551), Narayanan, Cunningham, Arteaga, Welch, Maxwell, & Zechariaha Chawinga (Rationale: deeper dive into CSin3 program from Katie Cunningham's colloquium, recommended by Connor)
-- **4/15**: ["Pedagogy of the Oppressed, Chapter 2"](https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf), Freire. (Rationale: Brandon wanted to read it, foundational teaching philosophy) 
-- **4/22**: No Meeting, [Women in Data Science -
-  Tucson](https://widstucson.org)
-- **4/29**: ["Why Are All the Black Kids Sitting Together in the Cafeteria? : Revised Edition, Part IV, Chapter 8"](https://ebookcentral.proquest.com/lib/uaz/detail.action?docID=903483), Tatum. (Rationale: Suggested on Jamboard)
+Special ACM InRoads issue on BPC may have other articles of interest. -->
+- **11/25**: No Meeting, Thanksgiving Break
+- **12/2**: 
 
 <!-- "What am I supposed to look like?" STEM Identity Narratives of Women
   of Color Pursuing a Computing Degree Through Vertical Transfer, Mary Jessica
@@ -138,8 +133,6 @@ better understand their requirements.
 
 
 ### Organizers
-
-Organizer contact information is available through the [UA Phonebook](https://directory.arizona.edu/phonebook).
 
 - Faculty Organizer: Kate Isaacs, Assistant Professor
 - Graduate Student Organizer: Connor Scully-Allison
