@@ -24,7 +24,7 @@ group is sizable, we may split into breakout rooms for smaller discussions,
 then reconvene to discuss points raised during those discussions.
 
 
-- Meeting Time: TBD
+- Meeting Time: Thursdays Noon, Utah Time
 - Meeting Place: Zoom
  
 Along with each discussion, we create a Perusall for cataloguing ideas and
@@ -52,31 +52,31 @@ Right now, it lists week-of.
 We will update this schedule based on group interest. Later weeks subject to
 change based on group interest.
 
-- **9/23**:
-- **9/30**: 
+- **9/22**: "Evidence for Teaching Practices that Broaden Participation for Women in Computing", Morrison et al.
+- **9/29**: "When Twice as Good Isn’t Enough: The Case for Cultural Competence in Computing", Washington
 <!-- No Meeting so all can attend [University of Arizona Diversity & Inclusion
   Symposium](https://diversity.arizona.edu/symposium) -->
-- **10/07**: 
+- **10/06**: 
 <!-- ["Undergraduate Latina/o Students: A Systematic Review of Research
   Identifying Factors Contributing to Academic Success
 Outcomes"](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3418&context=teal_facpub), Crisp, Taggart, & Nora (Rationale: Overview) -->
-- **10/14**: 
+- **10/13**: 
 <!-- ["The Troubled Success of Black Women in STEM](https://www.researchgate.net/profile/Ebony-Mcgee-2/publication/318919524_The_Troubled_Success_of_Black_Women_in_STEM/links/59d6843ba6fdcc52aca7cdd4/The-Troubled-Success-of-Black-Women-in-STEM.pdf), McGee & Bentley (Rationale: Several wanted to read it based on citations in works from last semester)
 -->
-- **10/21**: ***No Meeting -- IEEE VIS***
-- **10/28**: <!-- ["B(r)anding  Blackness: Biometric Technology and the Surveillance
+- **10/20**: ***No Meeting -- IEEE VIS***
+- **10/27**: <!-- ["B(r)anding  Blackness: Biometric Technology and the Surveillance
   of Blackness"](https://new.library.arizona.edu/), Chapter 3 of "Dark
 Matters: On the Surveillance of Blackness" by Simone Browne, available as
 eBook through UA Library (Rationale: Context when teaching computing, Brandon
 recommend it) -->
-- **11/04**: <!-- ["Affinity Research Groups in Practice: Apprenticing Students in
+- **11/03**: <!-- ["Affinity Research Groups in Practice: Apprenticing Students in
   Research"](https://www.proquest.com/docview/1638871933), Villa, Kephart, Gates, Thiry, & Hug (Rationale: possible approach to implement) -->
-- **11/11**: No Meeting, Veteran's Day
-- **11/18**: <!-- ["Reflections: The Computing Alliance of Hispanic-Serving
+- **11/10**: 
+- **11/17**: <!-- ["Reflections: The Computing Alliance of Hispanic-Serving
   Institutions"](https://dl.acm.org/doi/pdf/10.1145/3010823), Gates, Thiry, & Hug (Rationale: CAHSI Overview). Note:
 Special ACM InRoads issue on BPC may have other articles of interest. -->
 - **11/25**: No Meeting, Thanksgiving Break
-- **12/2**: 
+- **12/1**: 
 
 <!-- "What am I supposed to look like?" STEM Identity Narratives of Women
   of Color Pursuing a Computing Degree Through Vertical Transfer, Mary Jessica
