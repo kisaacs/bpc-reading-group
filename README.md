@@ -58,7 +58,7 @@ change based on group interest.
 - **10/13**: "Culturally responsive computing: a theory revisited", Scott et al.
 - **10/20**: ***No Meeting -- IEEE VIS***
 - **10/27**: "Gender and Choosing a STEM Major in College: Femininity, Masculinity, Chilly Climate,and Occupational Values", Sion et al. 
-- **11/03**: 
+- **11/03**: "The Equity Ethic: Black and Latinx College Students Reengineering Their STEM Careers toward Justice", McGee and Bently 
 - **11/10**: 
 - **11/17**: 
 - **11/25**: No Meeting, Thanksgiving Break
