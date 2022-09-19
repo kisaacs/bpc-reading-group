@@ -112,14 +112,11 @@ group, we must report them.
 For confidential discussions of such matters that do not require reporting,
 consider:
 
-- Counseling and Psych Services: [https://health.arizona.edu/counseling-psych-services](https://health.arizona.edu/counseling-psych-services)
-- Campus Health: [http://www.health.arizona.edu/](http://www.health.arizona.edu/)
-- Survivor Advocacy Program: [https://survivoradvocacy.arizona.edu/](https://survivoradvocacy.arizona.edu/)
-
-Another resource is [The Dean of Students Office's Student Assistance
-Program](http://deanofstudents.arizona.edu/student-assistance/students/student-assistance).
-We are unsure of the reporting status of this office. Please ask them first to
-better understand their requirements.
+- Office of the Ombudsman | 801-213-3757 | facultyombudsman@hsc.utah.edu
+- University Counseling Center | 801-581-6826 |
+  [counselingcenter.utah.edu](counselingcenter.utah.eddu)
+- Victim Survivor Advocates | 801-581-7776 | [advocate.wellness.utah.edu](advocate.wellness.utah.edu) | advocate@sa.utah.edu
+- Women's Resource Center | 801-581-8030 | [womenscenter.utah.edu](womenscenter.utah.edu)
 
 
 ### Organizers
