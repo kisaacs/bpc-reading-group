@@ -34,7 +34,10 @@ is permitted.
 
 ### Reading Group Mailing List
 
-Cominng Soon
+Join the reading group announcement list, `bpc-readings` through
+[https://www.lists.utah.edu/wws/subscribe/bpc-readings](https://www.lists.utah.edu/wws/subscribe/bpc-readings)
+to receive a weekly reminder with the reading announcement, Perusall link, and
+Zoom coordinates.
 
 <!--
 To join the reading group announcement list `bpc-reading` through
