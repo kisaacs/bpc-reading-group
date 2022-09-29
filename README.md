@@ -61,11 +61,11 @@ change based on group interest.
 - **9/22**: "Evidence for Teaching Practices that Broaden Participation for Women in Computing", Morrison et al.
 - **9/29**: "When Twice as Good Isn’t Enough: The Case for Cultural Competence in Computing", Washington
 - **10/06**: "Broadening Participation in Computing via Ubiquitous Combined Majors (CS+X)", Brodley et al. 
-- **10/13**: "Culturally responsive computing: a theory revisited", Scott et al.
+- **10/13**: ***No Meeting -- Fall Break***
 - **10/20**: ***No Meeting -- IEEE VIS***
-- **10/27**: "Gender and Choosing a STEM Major in College: Femininity, Masculinity, Chilly Climate,and Occupational Values", Sion et al. 
-- **11/03**: "The Equity Ethic: Black and Latinx College Students Reengineering Their STEM Careers toward Justice", McGee and Bently 
-- **11/10**: 
+- **10/27**: "Culturally responsive computing: a theory revisited", Scott et al.
+- **11/03**: "Gender and Choosing a STEM Major in College: Femininity, Masculinity, Chilly Climate,and Occupational Values", Sion et al. 
+- **11/10**: "The Equity Ethic: Black and Latinx College Students Reengineering Their STEM Careers toward Justice", McGee and Bently 
 - **11/17**: 
 - **11/25**: No Meeting, Thanksgiving Break
 - **12/1**: 
