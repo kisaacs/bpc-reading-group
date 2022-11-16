@@ -24,7 +24,7 @@ group is sizable, we may split into breakout rooms for smaller discussions,
 then reconvene to discuss points raised during those discussions.
 
 
-- Meeting Time: Thursdays Noon, Utah Time
+- Meeting Time: Fridays 4PM, Utah Time
 - Meeting Place: Zoom
  
 Along with each discussion, we create a Perusall for cataloguing ideas and
@@ -64,11 +64,11 @@ change based on group interest.
 - **10/13**: ***No Meeting -- Fall Break***
 - **10/20**: ***No Meeting -- IEEE VIS***
 - **10/27**: "Culturally responsive computing: a theory revisited", Scott et al.
-- **11/03**: "Gender and Choosing a STEM Major in College: Femininity, Masculinity, Chilly Climate,and Occupational Values", Sion et al. 
-- **11/10**: "The Equity Ethic: Black and Latinx College Students Reengineering Their STEM Careers toward Justice", McGee and Bently 
-- **11/17**: 
-- **11/25**: No Meeting, Thanksgiving Break
-- **12/1**: 
+- **11/04**: "Gender and Choosing a STEM Major in College: Femininity, Masculinity, Chilly Climate,and Occupational Values", Sion et al. 
+- **11/11**: No Meeting
+- **11/18**: "The Equity Ethic: Black and Latinx College Students Reengineering Their STEM Careers toward Justice", McGee and Bently 
+- **11/26**: No Meeting, Thanksgiving Break
+- **12/2**: 
 
 <!-- "What am I supposed to look like?" STEM Identity Narratives of Women
   of Color Pursuing a Computing Degree Through Vertical Transfer, Mary Jessica
