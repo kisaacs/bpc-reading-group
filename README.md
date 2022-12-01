@@ -68,7 +68,7 @@ change based on group interest.
 - **11/11**: No Meeting
 - **11/18**: "The Equity Ethic: Black and Latinx College Students Reengineering Their STEM Careers toward Justice", McGee and Bently 
 - **11/26**: No Meeting, Thanksgiving Break
-- **12/2**: 
+- **12/2**: ACM Inclusivity Style Guide 
 
 <!-- "What am I supposed to look like?" STEM Identity Narratives of Women
   of Color Pursuing a Computing Degree Through Vertical Transfer, Mary Jessica
