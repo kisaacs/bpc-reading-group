@@ -25,7 +25,7 @@ then reconvene to discuss points raised during those discussions.
 
 
 - Meeting Time: Biweekly Fridays 3PM, Utah Time
-- Meeting Place: WEB 4660 or Zoom (see mailing list)
+- Meeting Place: WEB 4660 or Zoom
  
 Along with each discussion, we create a Perusall for cataloguing ideas and
 discussion.  All people at the meeting are welcome to post. Anonymous posting
