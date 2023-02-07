@@ -1,4 +1,4 @@
-# Broadening Participation in Computing Reading Group
+# Broadening Participation in Computing Reading & Accountability Group
 
 The purpose of this group is self-education on the topic of broadening
 participation in computing, with an assumed audience of post-secondary
@@ -24,8 +24,8 @@ group is sizable, we may split into breakout rooms for smaller discussions,
 then reconvene to discuss points raised during those discussions.
 
 
-- Meeting Time: Fridays 4PM, Utah Time
-- Meeting Place: Zoom
+- Meeting Time: Biweekly Fridays 3PM, Utah Time
+- Meeting Place: WEB 4660 or Zoom (see mailing list)
  
 Along with each discussion, we create a Perusall for cataloguing ideas and
 discussion.  All people at the meeting are welcome to post. Anonymous posting
@@ -52,23 +52,16 @@ first and last name. The message body should be left blank.-->
 
 ### Schedule
 
-This Fall 2022 schedule is temporary until the day of week and time is set.
-Right now, it lists week-of.
+This Spring 2023 were are focusing on collaboratively exploring University of Utah
+resources for broadening participation. 
 
-We will update this schedule based on group interest. Later weeks subject to
-change based on group interest.
 
-- **9/22**: "Evidence for Teaching Practices that Broaden Participation for Women in Computing", Morrison et al.
-- **9/29**: "When Twice as Good Isn’t Enough: The Case for Cultural Competence in Computing", Washington
-- **10/06**: "Broadening Participation in Computing via Ubiquitous Combined Majors (CS+X)", Brodley et al. 
-- **10/13**: ***No Meeting -- Fall Break***
-- **10/20**: ***No Meeting -- IEEE VIS***
-- **10/27**: "Culturally responsive computing: a theory revisited", Scott et al.
-- **11/04**: "Gender and Choosing a STEM Major in College: Femininity, Masculinity, Chilly Climate,and Occupational Values", Sion et al. 
-- **11/11**: No Meeting
-- **11/18**: "The Equity Ethic: Black and Latinx College Students Reengineering Their STEM Careers toward Justice", McGee and Bently 
-- **11/26**: No Meeting, Thanksgiving Break
-- **12/2**: ACM Inclusivity Style Guide 
+- **2/10**: Department BPC Plan
+- **2/24**: Department BPC Plan - Part 2
+- **3/10**: 
+- **3/24**:
+- **4/7**:
+- **4/21**:
 
 <!-- "What am I supposed to look like?" STEM Identity Narratives of Women
   of Color Pursuing a Computing Degree Through Vertical Transfer, Mary Jessica
